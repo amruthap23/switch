@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    char x;
+    int x;
     printf("Menu items: \n\n
             1. Pizza,Rs239 \n
             2. Burger,Rs129 \n
